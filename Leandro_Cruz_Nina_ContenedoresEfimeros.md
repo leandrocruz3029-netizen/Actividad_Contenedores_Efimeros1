@@ -30,7 +30,7 @@ echo "Leandro Cruz Nina" && docker ps \-a
 El comando docker ps muestra únicamente contenedores en ejecución. Para listar los contenedores que han finalizado o están detenidos es necesario añadir el parámetro \-a.
 
 El contenedor aparece listado con un CONTAINER ID único, asociado a la imagen hello-world y con un STATUS que indica Exited (0).   
-Exited (0) significa que el proceso ya no se está ejecutando.
+Exited (0) significa que el proceso ya no se está ejecutando. 
 
 # 2: Nombrar Contenedores para una mejor Gestión
 
